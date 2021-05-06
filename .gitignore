@@ -1,0 +1,5 @@
+data/*
+conf/*
+__pycache__
+superset-env/*
+notebook/.ipynb_checkpoints
